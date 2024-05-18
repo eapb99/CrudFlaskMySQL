@@ -79,8 +79,6 @@ Para ejecutar la aplicación Flask, utiliza el siguiente comando:
 flask run
 ```
 
-En Windows, utiliza `set` en lugar de `export`:
-
 La aplicación debería estar disponible en `http://127.0.0.1:5000/`.
 
 ## Archivos del Proyecto
