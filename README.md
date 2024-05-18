@@ -47,7 +47,7 @@ Este proyecto es un ejemplo básico de cómo implementar un CRUD (Create, Read, 
 
 1. **Crear la tabla**
 
-   El archivo `Tabla_carros.sql` contiene las instrucciones SQL necesarias para crear la tabla y algunos datos de ejemplo. Para ejecutar este archivo:
+   El archivo `Tabla_carros.sql` contiene las instrucciones SQL necesarias para crear la tabla y algunos datos de ejemplo.
 
 
 ## Conexión a la Base de Datos
